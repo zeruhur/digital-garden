@@ -7,11 +7,7 @@ permalink: /
 
 # Benvenuto! 🌱
 
-Questo è il giardino digitale di Zeruhur.
-
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Dai uno sguardo alla <span style="font-weight: bold">[[prima-nota]]</span> per iniziare a esplorare.
-</p>
+Questo è il [giardino digitale] di Zeruhur.
 
 Se vuoi installarne uno tuo ecco una [guida passo passo per farlo](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) (in inglese).
 
