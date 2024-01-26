@@ -12,6 +12,8 @@ Un giardino digitale è:
 2. **Personale e riflessivo:** un giardino digitale è uno spazio personale in cui gli individui possono riflettere sui propri pensieri, idee e conoscenze. È un luogo di [[crescita personale]] ed [[esplorazione]].
 3. **Non lineare:** a differenza dei siti web o dei blog tradizionali, un giardino digitale non è organizzato per data o argomento. Consente invece di effettuare connessioni e associazioni tra informazioni in modo [[non lineare]].
 
+È affine al concetto di [[Zettelkasten]]
+
 ---
 
 # Sorgenti
