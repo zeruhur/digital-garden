@@ -8,6 +8,6 @@ La portabilità dei dati richiede standard tecnici comuni per facilitare il tras
 
 La portabilità dei dati si applica ai dati personali. Comporta l'accesso ai dati personali senza implicare la proprietà dei dati in sé.
 
-Sorgente:
+# Sorgenti
 
-https://en.wikipedia.org/wiki/Data_portability
+- https://en.wikipedia.org/wiki/Data_portability

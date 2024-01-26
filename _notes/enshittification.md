@@ -22,7 +22,7 @@ Per mitigarla Doctorow suggerisce due misure di mitigazione:
 
 Questi principi sono conformi al [[Fediverso]]
 
-Sorgenti:
+# Sorgenti
 
 - https://doctorow.medium.com/social-quitting-1ce85b67b456
 - https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys

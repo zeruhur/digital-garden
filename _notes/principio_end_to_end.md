@@ -10,6 +10,6 @@ Questo approccio può migliorare l'efficienza, la flessibilità e la scalabilit�
 
 In altre parole, è molto più facile ottenere un'affidabilità oltre un certo margine con meccanismi negli host finali di una rete piuttosto che nei nodi intermedi, soprattutto quando questi ultimi sono fuori dal controllo dei primi e non ne sono responsabili.
 
-Sorgente:
+# Sorgenti
 
-https://en.wikipedia.org/wiki/End-to-end_principle
+- https://en.wikipedia.org/wiki/End-to-end_principle

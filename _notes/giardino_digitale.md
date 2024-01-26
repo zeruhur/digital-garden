@@ -14,6 +14,6 @@ Un giardino digitale è:
 
 ---
 
-Sorgente:
+# Sorgenti
 
-https://medium.com/@estebanthi/what-is-a-digital-garden-eeae89c7c483
+- https://medium.com/@estebanthi/what-is-a-digital-garden-eeae89c7c483
