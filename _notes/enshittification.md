@@ -1,5 +1,5 @@
 ---
-title: enshittification
+title: Enshittification
 ---
 
 
