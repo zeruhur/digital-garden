@@ -13,4 +13,4 @@ La psicologia analitica, sviluppata da [[Carl Gustav Jung]], è una branca della
 
 5. **[[Sincronicità]]**: Un concetto che descrive eventi significativi correlati non da cause ma da significati. Questi eventi "sincronici" sono interpretati come manifestazioni dell'inconscio collettivo.
 
-La psicologia analitica junghiana ha avuto un impatto profondo non solo nella psicologia, ma anche in altre aree come la filosofia, la religione, l'arte e la letteratura, offrendo un ricco quadro di riferimento per esplorare la [[psiche umana]] e il suo sviluppo.
+La psicologia analitica junghiana ha avuto un impatto profondo non solo nella psicologia, ma anche in altre aree come la filosofia, la religione, l'arte e la letteratura, offrendo un ricco quadro di riferimento per esplorare la [[Psiche umana]] e il suo sviluppo.
