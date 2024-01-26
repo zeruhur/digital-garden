@@ -1,4 +1,6 @@
-# Principio end-to-end
+---
+title: Principio end-to-end
+---
 
 Le funzioni e i processi cruciali di una comunicazione o di un'operazione si svolgono principalmente alle estremità o ai terminali della rete, piuttosto che essere gestiti centralmente. 
 

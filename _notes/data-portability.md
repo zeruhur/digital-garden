@@ -1,4 +1,6 @@
-# Data Portability
+---
+title: Data Portability
+---
 
 La portabilità dei dati è un concetto volto a proteggere gli utenti dall'archiviazione dei loro dati in "silos" o "walled garden" incompatibili tra loro, ovvero piattaforme chiuse, che li sottopongono al vendor lock-in e rendono difficile la creazione di backup dei dati o lo spostamento di account tra servizi.
 

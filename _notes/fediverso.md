@@ -1,2 +1,3 @@
-# Fediverso
-
+---
+title: Fediverso
+---
