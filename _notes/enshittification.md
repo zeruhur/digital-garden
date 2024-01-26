@@ -1,4 +1,7 @@
-# Enshittification
+---
+title: enshittification
+---
+
 
 Termine introdotto e definito da [Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) che riguarda il ciclo di vita della piattaforme in quattro fasi:
 
